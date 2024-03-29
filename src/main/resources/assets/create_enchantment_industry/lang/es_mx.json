@@ -22,7 +22,7 @@
 	"_": "->------------------------]  Advancements  [------------------------<-",
 
 	"advancement.create_enchantment_industry.experienced_engineer": "Ingeniero experimentado",
-	"advancement.create_enchantment_industry.experienced_engineer.desc": "Obtén algunas pepitas de experiencia triturando minerales o matando mobs con un deployer",
+	"advancement.create_enchantment_industry.experienced_engineer.desc": "Obtén algunas pepitas de experiencia triturando minerales o matando mobs con un Desplegador",
 	"advancement.create_enchantment_industry.black_as_ink": "¡Negro como la tinta!",
 	"advancement.create_enchantment_industry.black_as_ink.desc": "Obtén un cubo de tinta para tu negocio de publicaciones",
 	"advancement.create_enchantment_industry.copiable_masterpiece": "Obra maestra copiable",
@@ -78,7 +78,7 @@
 	"create_enchantment_industry.ponder.disenchant.text_2": "Los jugadores que estén de pie sobre el Desencantador perderán rápidamente su nivel de experiencia, y el valor de experiencia perdido se convertirá en experiencia líquida para su almacenamiento.",
 
 	"create_enchantment_industry.ponder.drop_experience_nugget.header": "¿Quizás una granja de experiencia?",
-	"create_enchantment_industry.ponder.drop_experience_nugget.text_1": "Cuando un mob es asesinado por un deployer, se sueltan pepitas de experiencia.",
+	"create_enchantment_industry.ponder.drop_experience_nugget.text_1": "Cuando un mob es asesinado por un Desplegador, se sueltan pepitas de experiencia.",
 
 	"create_enchantment_industry.ponder.enchant.header": "Encantamiento",
 	"create_enchantment_industry.ponder.enchant.text_1": "El Encantador de Blaze puede encantar tus objetos.",
